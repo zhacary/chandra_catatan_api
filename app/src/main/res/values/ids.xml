@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="swipeRefreshLayout" type="id" />
+    <item name="rv" type="id" />
+    <item name="pb" type="id" />
+    <item name="et_id" type="id" />
+    <item name="bt_ubah" type="id" />
+    <item name="bt_hapus" type="id" />
+    <item name="tv_tanggal" type="id" />
+</resources>
